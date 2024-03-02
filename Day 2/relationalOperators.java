@@ -38,7 +38,6 @@ public class relationalOperators {
         double x2 = 6.0;
 
         boolean z7 = x2 != y1;
-        System.out.println(z3);
-
+        System.out.println(z7);
     }
 }
