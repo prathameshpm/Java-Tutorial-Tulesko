@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java Tutorial Telusko_ea35a25e"
+        },
+        {
+            "type": "java",
+            "name": "assignmentOperators",
+            "request": "launch",
+            "mainClass": "assignmentOperators",
+            "projectName": "Java Tutorial Telusko_ea35a25e"
+        },
+        {
+            "type": "java",
+            "name": "dataTypes",
+            "request": "launch",
+            "mainClass": "dataTypes",
+            "projectName": "Java Tutorial Telusko_ea35a25e"
+        },
+        {
+            "type": "java",
+            "name": "literals",
+            "request": "launch",
+            "mainClass": "literals",
+            "projectName": "Java Tutorial Telusko_ea35a25e"
+        },
+        {
+            "type": "java",
+            "name": "typeConversionAndCasting",
+            "request": "launch",
+            "mainClass": "typeConversionAndCasting",
+            "projectName": "Java Tutorial Telusko_ea35a25e"
+        },
+        {
+            "type": "java",
+            "name": "variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Java Tutorial Telusko_ea35a25e"
+        }
+    ]
+}
