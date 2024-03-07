@@ -1,5 +1,8 @@
 public class array {
 
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         char x[] = {'a', 'b', 'c', 'd'};
         int y[] = {0, 1, 3, 7};
