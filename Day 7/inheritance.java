@@ -11,5 +11,8 @@ public class inheritance {
         int r6 = obj1.div(1, 2);
         int r7 = obj1.mod(3, 4);
         System.out.println(r3 + ", " + r4 + ", " + r5 + ", " + r6 + ", " + r7);
+        vAdvCalc obj2 = new vAdvCalc();
+        int r8 = obj2.pow(2, 32);
+        System.out.println(r8);
     }
 }
