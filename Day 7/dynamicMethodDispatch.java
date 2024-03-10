@@ -1,7 +1,5 @@
 /*
- * 
  * Dynamic Method Dispatch AKA Runtime Polymorphism
- * 
  */
 
 class A {
