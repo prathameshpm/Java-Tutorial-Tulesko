@@ -5,7 +5,7 @@ public class array {
      */
     public static void main(String[] args) {
         char x[] = {'a', 'b', 'c', 'd'};
-        int y[] = {0, 1, 3, 7};
+        // int y[] = {0, 1, 3, 7};
         System.out.println(x[1]);
 
         int z[] = new int[4];
